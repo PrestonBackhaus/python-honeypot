@@ -45,5 +45,3 @@ def run_web_honeypot(port=5000, input_username="admin", input_password="password
 
     return run_web_honeypot_app
     
-
-run_web_honeypot(port=5000, input_username="admin", input_password="password")
