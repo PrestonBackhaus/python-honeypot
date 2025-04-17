@@ -1,0 +1,4 @@
+server.key
+audits.log
+cmd_audits.log
+public.env

@@ -1,0 +1,3 @@
+This project is a python based honeypot that uses ssh.
+
+It is not run on a local machine, but rather hosted on a VPS using Oracle (or other service)
