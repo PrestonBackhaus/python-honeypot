@@ -1,4 +1,15 @@
+# SSH Keys
 server.key
+server.key.pub
+
+# Log files
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
 audits.log
 cmd_audits.log
 public.env
